@@ -1,0 +1,5 @@
+brotli
+yt-dlp
+moviepy
+youtube_transcript_api
+pydub
