@@ -3,3 +3,11 @@ yt-dlp
 moviepy
 youtube_transcript_api
 pydub
+tqdm
+soundfile
+numpy
+matplotlib
+PyWavelets
+numpy
+pandas
+seaborn
